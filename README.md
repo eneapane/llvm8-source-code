@@ -1,2 +1,5 @@
 # llvm8-source-code
-llvm source code to build
+mkdir build
+cd build
+cmake ..
+make
